@@ -42,7 +42,6 @@ To use this project, you'll need Python installed on your system. Additionally, 
 - You can modify the `stock_data.csv` file to include your own stock data.
 - Adjust the server host and port in `tcp_server.py` if needed.
 - Extend the functionality of the client to process and visualize the streamed data according to your requirements.
-- 
 
 ## Acknowledgments
 
